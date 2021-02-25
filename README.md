@@ -5,4 +5,4 @@ Ez az első Scrath projektem ami egy tenis játékot tartalmaz magában.
 <a href="https://scratch.mit.edu/projects/488131653">Elérési út</a>
 
 
-<img src="file:///C:/Users/nagy2/Downloads/scrath.png">
+<img src="scrath.png">
